@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kyubili
-- 👀 I’m interested in les renards
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![testgithub](https://user-images.githubusercontent.com/93552754/207045165-81cb9c81-98d7-4858-ad26-10881371f0eb.png)
 
-<!---
-kyubili/kyubili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @kyubili
+- 👀 I’m interested in design x code
+- 🌱 I’m currently learning C
