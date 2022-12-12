@@ -3,3 +3,5 @@
 - 👋 Hi, I’m @kyubili
 - 👀 I’m interested in design x code
 - 🌱 I’m currently learning C
+
+Thank freepik.com for the kyubi
